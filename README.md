@@ -14,7 +14,7 @@ In order to know how this works, you need to understand three things: DockerFile
 
 1.DockerFile: It is a text document used to build Image.
 
-2.Docker Image: It Docker image is a template for running Docker Container.
+2.Docker Image: It is a template for running Docker Container.
 
 3.Docker Container: It is an executable package of software, that includes everything needed to run 
 an application.
